@@ -1,17 +1,17 @@
 ```mermaid
 graph TD
-    A[Intro] --> B[Login]
-    B --> C[Welcome]
-    C --> D[Language]
-    D --> E[Terms and Conditions]
-    E -->|Reject| J[Support]
-    E -->|Accept| F[Privacy Policy]
-    F -->|Reject| J
-    F -->|Accept| G[Data Review]
-    G -->|Reject| H[Report Problem]
-    H --> K[Waiting]
-    G -->|Accept| I[Information Declared]
-    I --> L[ShareId]
-    L -->|Reject| J
-    L -->|Accept| K
+    A[Start] --> B[Sign Up]
+    B --> C[Greetings]
+    C --> D[Choose Plan]
+    D --> E[Payment Method]
+    E -->|Decline| J[Customer Service]
+    E -->|Approve| F[User Agreement]
+    F -->|Decline| J
+    F -->|Approve| G[Profile Setup]
+    G -->|Decline| H[Feedback]
+    H --> K[Pending]
+    G -->|Approve| I[Account Created]
+    I --> L[Share Profile]
+    L -->|Decline| J
+    L -->|Approve| K
 ```

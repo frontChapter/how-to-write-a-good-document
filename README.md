@@ -8,19 +8,19 @@ This is a testing project for writing a good document as a front-end developer.
 
 Example: This project is a task management application that helps users organize and prioritize their tasks. It includes features such as task creation, deadlines, and notifications.
 
-### Features
+<!-- ### Features
 
 - **Feature 1**: Brief description of feature 1.
 - **Feature 2**: Brief description of feature 2.
-- **Feature 3**: Brief description of feature 3.
+- **Feature 3**: Brief description of feature 3. -->
 
-### Technology Stack
+<!-- ### Technology Stack
 
 - **Framework:** React
 - **Language:** TypeScript
 - **State Management:** Redux
 - **Styling:** Styled-components
-- **Bundler:** Webpack
+- **Bundler:** Webpack -->
 
 ## Getting Started
 
@@ -63,14 +63,14 @@ The production-ready files will be in the dist directory.
 
 ### Usage
 
-#### Application Structure
+<!-- #### Application Structure
 
 - `src/`: Source files for the application.
 - `components/`: Reusable UI components.
 - `pages/`: Page components.
 - `assets/`: Static assets (images, styles, etc.).
 - `public/`: Public assets that will be served directly.
-- `vite.config.js`: Configuration file for Vite.
+- `vite.config.js`: Configuration file for Vite. -->
 
 ### Links to guidelines
 

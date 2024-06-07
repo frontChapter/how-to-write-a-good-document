@@ -19,8 +19,8 @@ We follow the Gitflow branching strategy:
 
 ### Examples
 
-git commit -m "Fix button alignment"
-git commit -m "Add login functionality (#45)"
+- git commit -m "Fix button alignment"
+- git commit -m "Add login functionality (#45)"
 
 ---
 
